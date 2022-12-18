@@ -1,7 +1,7 @@
 # IFCN6
 This is a graphical user interface that allows spike annotations, and automatically computes the IFCN 6 criteria values.
 
-This code demo accompanies this manuscript ["A quantitative approach to evaluating interictal epileptiform discharges based on interpretable quantitative criteria”.](https://pubmed.ncbi.nlm.nih.gov/36473334/).
+This code demo accompanies this manuscript ["A quantitative approach to evaluating interictal epileptiform discharges based on interpretable quantitative criteria”](https://pubmed.ncbi.nlm.nih.gov/36473334/).
 
 If you use this in your work, please cite: 
 
