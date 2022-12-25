@@ -3,7 +3,7 @@ This is a graphical user interface that allows spike annotations, and automatica
 
 This code demo accompanies this manuscript ["A quantitative approach to evaluating interictal epileptiform discharges based on interpretable quantitative criteria”](https://pubmed.ncbi.nlm.nih.gov/36473334/).
 
-You can [get the PDF]({{ site.url }}/assets/IFCN6_2022.pdf) here.
+The paper is included in this repository (IFCN6.pdf).
 
 If you use this in your work, please cite: 
 
